@@ -1,0 +1,31 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+# SpotPet
+- project: SpotPet
+  role: Project Manager / iOS Developer
+  duration: Сентябрь, 2018 — по настоящее время
+  url: "https://keep.pet/spotpet"
+  description: SpotPet - это геолакационный сервис для владельцев питомцев. Внутри приложения можно размещать объявления о пропаже питомцев, магазины и др, а также общаться с другими питомцами с помощью чата. Я занимался написанием технического задания, решением вопросов с заказчиком, руководил командой разработки iOS, Android приложений и сервера, а также непосредственно кодил iOS-приложение.
+  frameworks: Swift, MVC, Coordinators, Alamofire, Moya, SwiftyJSON, RxSwift, Realm, GooglePlaces, APNs, SnapKit, AloeStackView, WebSocket, Fastlane, App Center, SwiftLint, Cocoapods, Git, TestFlight
+
+- project: KeepPet
+  role: Project Manager / iOS Developer
+  duration: Январь, 2018 — Сентябрь, 2018
+  url: "https://keep.pet/keeppet"
+  description: Сервис является потенциальной заменой международного паспорта питомца в электронном формате с использованием технологии блокчейн Ethereum. Это первый проект, в котором я не только писал приложение, но и руководил командой разработки и утверждал задачи с клиентом.
+  frameworks: Swift, MVC, Coordinators, Alamofire, Moya, SwiftyJSON, RxSwift, Realm, SnapKit, Firebase, Lottie, Firebase, FacebookLogin, Fabric, Crashlytics, SwiftLint, Cocoapods, Git, TestFlight
+
+- project: Mirage
+  role: iOS Developer
+  duration: Сентябрь, 2017 — Январь, 2018
+  url: "https://juntoteam.com/portfolio-item/mirage-2/"
+  description: Приложение для распознования всех мировых достопримечательностей. Я сделал полностью клиентскую часть. Сервис разарабатывался совместно с командой Prisma. В приложении можно скачать пак города или страны и ходить распозновать достопримечательности без подключения к сети.
+  frameworks: Swift, MVC, GoogleMaps, AWSS3, Alamofire, Realm, SnapKit, Firebase, PBJVision, Fabric, Crashlytics, SwiftLint, Cocoapods, Git, TensorFlow, TestFlight
+
+- project: REVENT
+  role: CEO / iOS Developer
+  duration: Февраль, 2017 — Февраль, 2019
+  url: "https://www.rvnt.ru"
+  description: Сервис предлагает услуги для размещения объявлений о продаже одежды, общения продавцов и покупателелей в чате приложения. В проекте я занимался созданием мобильного приложения, частично писал сервер, а также вел всю бизнес-стратегию проекта, включая коллаборации с известными людьми и площадками и следил за тем, чтобы проект был хорошо защищен и не падал, так как мы даже успели подвергнуться DDoS-атаке.
+  frameworks: Swift, Python, Django, MVC, Alamofire, Unboxed, Realm, Storyboards, SwiftyVK, APNs, Firebase, Fabric, Crashlytics, SwiftLint, Cocoapods, Git, TestFlight
